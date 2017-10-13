@@ -1,1 +1,12 @@
-# 171014
+# 2017-10-14、2017-10-15 課程大綱
+- JavaScript 語法
+- JavaScript 陣列
+- JavaScript 如何存取 JSON 資料
+- 物件導向觀念討論
+- JavaScript 物件導向語法
+- this 到底是什麼?
+- 以 prototype 定義物件的屬性與方法
+- 以 prototype 實作/模擬類別繼承
+- 演算法
+- 資料結構
+- 關於陣列的各項方法
